@@ -246,8 +246,3 @@ publish your project
 expo publish
 ```
 
-## :handshake: Contact
-
-Sashen - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
-
-Project Link: [https://github.com/SashenJayathilaka/Deliveroo-Clone.git](https://github.com/SashenJayathilaka/Deliveroo-Clone.git)
